@@ -1,2 +1,4 @@
 # weather_project
-this is  a basic weather app 
+This is  a basic weather app.
+Get current weather data by city.
+This project uses a Weather API to display weather details.
